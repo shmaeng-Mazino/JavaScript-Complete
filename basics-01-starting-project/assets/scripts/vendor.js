@@ -12,3 +12,6 @@ function outputResult(result, text) {
   currentCalculationOutput.textContent = text;
 }
 // asdf
+
+
+// asdfasdfasdf
